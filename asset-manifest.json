@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/CrudApp/static/css/main.f4570722.css",
+    "main.js": "/CrudApp/static/js/main.4f23af17.js",
+    "static/media/vladi.jpeg": "/CrudApp/static/media/vladi.c49b49f74e9fdcc29761.jpeg",
+    "index.html": "/CrudApp/index.html",
+    "main.f4570722.css.map": "/CrudApp/static/css/main.f4570722.css.map",
+    "main.4f23af17.js.map": "/CrudApp/static/js/main.4f23af17.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4570722.css",
+    "static/js/main.4f23af17.js"
+  ]
+}
